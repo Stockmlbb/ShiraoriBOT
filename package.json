@@ -1,7 +1,7 @@
 {
-  "name": "ShiraoriBOT",
+  "name": "ARILNARINDRA",
   "version": "2.0.1",
-  "description": "SHIRAORI",
+  "description": "BABOBOT",
   "main": "index.js",
   "scripts": {
     "start": "node index.js --self",
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/ilmanhdyt/ShiraoriBOT/issues"
   },
-  "homepage": "https://github.com/ilmanhdyt",
+  "homepage": "",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
     "awesome-phonenumber": "^2.54.0",
