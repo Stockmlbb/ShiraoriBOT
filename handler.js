@@ -490,8 +490,8 @@ ketik *.on delete* untuk mematikan pesan ini
 
 global.dfail = (type, m, conn) => {
   let msg = {
-    rowner: 'Perintah ini hanya dapat digunakan oleh _*Ilman*_',
-    owner: 'Perintah ini hanya dapat digunakan oleh _*Ilman*_',
+    rowner: 'Perintah ini hanya dapat digunakan oleh _*OWNER*_',
+    owner: 'Perintah ini hanya dapat digunakan oleh _*OWNER*_',
     mods: 'Perintah ini hanya dapat digunakan oleh _*Admin Shiraori*_',
     premium: 'Perintah ini hanya untuk pengguna _*Premium*_',
     group: 'Perintah ini hanya dapat digunakan di grup',
