@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner  = ['6282124720691', '6282124720691'] // letakkan nomor kalian disini
+global.owner  = ['60138211417', '6282124720691'] // letakkan nomor kalian disini
 global.mods  = JSON.parse(fs.readFileSync('./src/moderator.json'))
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
